@@ -2,7 +2,12 @@
   "name": "scaffold_project",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:swsatheesh/kqilp_components"
+  },
   "dependencies": {
+    "kqilp_components": "git+ssh://git@github.com:swsatheesh/kqilp_components.git",
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
