@@ -99,11 +99,6 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-plugin-styled-components": "^1.5.1",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
     "babel-preset-react-app": "^3.1.2",
     "redux-logger": "^3.0.6",
     "redux-mock-store": "^1.5.3"
