@@ -1,3 +1,3 @@
 export default {
-    selected: 'Anatomy'
+  selected: "Anatomy"
 };

@@ -1,3 +1,3 @@
 export default {
-    selected: 'Simulation'
+  selected: "Simulation"
 };

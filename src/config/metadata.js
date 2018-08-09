@@ -1,7 +1,7 @@
-import '../style/style.scss';
+import "../style/style.scss";
 
 export default {
-  id: 'scaffold_project',
-  version: 'alpha',
+  id: "scaffold_project",
+  version: "alpha",
   username: undefined
 };
