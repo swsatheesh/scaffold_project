@@ -1,3 +1,8 @@
-@import 'node_modules/kqilp_components/style/common';
+$path-to-node_modules: "../../node_modules";
+
+$ss-font-path: '#{$path-to-node_modules}/kqilp_components/style/font/source-sans-pro';
+$images-folder-path: '#{$path-to-node_modules}/kqilp_components/style/images';
+
+@import 'node_modules/kqilp_components/style/style';
 
 @import 'general';
