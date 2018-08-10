@@ -105,6 +105,7 @@
     "eslint-plugin-prettier": "^2.6.2",
     "prettier": "^1.14.0",
     "prop-types": "^15.6.2",
+    "react-hot-loader": "^4.3.4",
     "redux-logger": "^3.0.6",
     "redux-mock-store": "^1.5.3"
   }

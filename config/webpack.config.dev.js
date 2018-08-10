@@ -78,7 +78,8 @@ module.exports = {
             include: paths.appSrc,
             loader: require.resolve("babel-loader"),
             options: {
-              cacheDirectory: true
+              cacheDirectory: true,
+              plugins: ["react-hot-loader/babel"]
             }
           },
           {

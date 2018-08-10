@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import logo from "./logo.svg";
+import { hot } from "react-hot-loader";
 
 import { Switch, Route } from "react-router-dom";
 
@@ -34,4 +34,4 @@ class MainContainer extends Component {
   }
 }
 
-export default MainContainer;
+export default hot(module)(MainContainer);
