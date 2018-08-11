@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { hot } from "react-hot-loader";
 
 import { Switch, Route } from "react-router-dom";
 
@@ -34,4 +33,4 @@ class MainContainer extends Component {
   }
 }
 
-export default hot(module)(MainContainer);
+export default MainContainer;

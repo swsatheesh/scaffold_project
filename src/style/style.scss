@@ -2,6 +2,9 @@ $path-to-node_modules: "../../node_modules";
 
 $ss-font-path: '#{$path-to-node_modules}/kqilp_components/style/font/source-sans-pro';
 $images-folder-path: '#{$path-to-node_modules}/kqilp_components/style/images';
+$fa-font-path: '#{$path-to-node_modules}/font-awesome/fonts';
+
+@import 'node_modules/font-awesome/scss/font-awesome';
 
 @import 'node_modules/kqilp_components/style/style';
 
